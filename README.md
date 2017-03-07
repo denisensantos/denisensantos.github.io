@@ -1,2 +1,2 @@
-# WWC
-Woman Who Code
+# Lorem ipsum
+Dolor sit amet
